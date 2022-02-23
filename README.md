@@ -1,16 +1,7 @@
-# expense_dev
+# Expense_dev
 
-A new Flutter project.
+Projeto para consumir dados de api e salvar em banco de dados sqlite
 
-## Getting Started
+## Vídeo de apresentação do app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/32388157/155254669-e96612e7-0cd4-4dde-8941-94733c636710.mp4
